@@ -1,0 +1,3 @@
+[submodule "child_1"]
+	path = child_1
+	url = https://github.com/ionox0/child_mod.git
