@@ -1,3 +1,6 @@
 [submodule "child_1"]
 	path = child_1
 	url = https://github.com/ionox0/child_mod.git
+[submodule "child_2"]
+	path = child_2
+	url = https://github.com/ionox0/child_mod_2.git
